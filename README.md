@@ -1,2 +1,15 @@
 # 42_avaj_launcher
-Premier projet de l'arc des projets Java. Implémentation d'un programme Java simple selon un diagramme de classe donné écrit en UML.
+
+Objectives
+
+Java   
+UML   
+Object-Oriented Programming   
+Imperative Programming   
+
+Skills
+
+Imperative programming   
+Object-oriented programming   
+Adaptation & creativity   
+Rigor   
